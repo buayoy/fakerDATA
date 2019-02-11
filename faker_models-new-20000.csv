@@ -1,4 +1,4 @@
-﻿id,name,salary,promotion,phonenumber,data usage (GB),subdistrict,data (GB),call (min),call usage (min),age,date,Net Over limit,Call Over limit
+﻿id,name,salary,promotion,phonenumber,datausage,subdistrict,data,call,call usage,age,date,Net Over limit,Call Over limit
 1,Dina Monahan Sr.,15000,1090,893081438,49,หัวทุ่ง,50,500,496,20,9/10/2018 17:09,0,0
 2,Garth Batz,50000,1090,812604870,12,หนองแรต,50,500,182,30,24/7/2018 09:55,0,0
 3,Veronica Denesik,50000,390,849805465,19,แก่งเลิงจาน,10,100,766,47,20/4/2018 12:11,9,666
